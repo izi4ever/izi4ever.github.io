@@ -1,0 +1,13 @@
+{
+    "app_last_version" : "1.7.3",
+    "comment" : {
+        "en" : "en text",
+        "ru" : "ru text",
+        "uk" : "uk text",
+        "de" : "de text"
+    },
+    "link" : {
+        "ios" : "https://www.apple.com/app-store/",
+        "android" : "https://play.google.com/store/games"
+    }
+}
