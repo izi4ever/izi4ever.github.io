@@ -1,0 +1,19 @@
+{
+    "app_last_version" : "2.0.0",
+    "comment" : {
+        "en" : "You are using an outdated version of this application. The new versions have new useful features, improved stability and security of the application. Please update the application to the latest version to continue working. To do this, click the button below.",
+        "ru" : "Вы используете устаревшую версию этого приложения. В новых версиях появились новые полезные функции, улучшена стабильность и безопасность приложения. Чтобы продолжить работу, обновите приложение до последней версии. Для этого нажмите кнопку ниже.",
+        "uk" : "Ви використовуєте застарілу версію цієї програми. В нових версіях з'явились нові корисні функції, покращена стабільність та безпека додатку. Щоб продовжити роботу, оновіть додаток до останньої версії. Для цього натисніть кнопу нижче.",
+        "de" : "Sie verwenden eine veraltete Version dieser Anwendung. Die neuen Versionen verfügen über neue nützliche Funktionen, verbesserte Stabilität und Sicherheit der Anwendung. Bitte aktualisieren Sie die App auf die neueste Version, damit sie weiterhin funktioniert. Klicken Sie dazu auf die Schaltfläche unten."
+    },
+    "button_text" : {
+        "en" : "Update now",
+        "ru" : "Обновить сейчас",
+        "uk" : "Оновити зараз",
+        "de" : "Jetzt aktualisieren"
+    },
+    "link" : {
+        "ios" : "https://apps.apple.com/us/app/instagram/id389801252",
+        "android" : "https://play.google.com/store/apps/details?id=com.instagram.android"
+    }
+}
